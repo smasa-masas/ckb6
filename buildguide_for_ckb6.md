@@ -158,7 +158,9 @@ QMK_FirmwareをPCからRP-2040Zeroにインストールしてください。
 
 ## Build 2(prototype_case)
 
-[movie](https://www.youtube.com/watch?v=uL3kOORdtyU)
+[video](https://www.youtube.com/watch?v=uL3kOORdtyU)
+
+(Note The video is from ckb4, but the structure is the same.)
 
 With the bottom side of the top case facing up, heat seal the insert nuts in 6 locations using a soldering iron.
 <br>
